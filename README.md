@@ -1,2 +1,2 @@
 # Datascience-
-dsmnsd
+list of all ppts shared in the course
